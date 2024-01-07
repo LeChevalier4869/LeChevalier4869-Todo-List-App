@@ -60,7 +60,7 @@ function TodoApp() {
             <div className="git-repo">
                 <h4>Link to git repo:</h4>
                 <a 
-                    href="https://github.com/LeChevalier4869/Todo-List-App-components"
+                    href="https://github.com/LeChevalier4869/LeChevalier4869-Todo-List-App"
                     target="_blank"
                 >Todo List App V.0.0.1</a>
             </div>
